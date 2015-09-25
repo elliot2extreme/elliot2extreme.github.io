@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2014-10-03
+photo: IMG_7435.jpg
+caption_header: 'Pause ...'
+caption: 'wie die Hühner auf der Stange'
+---
